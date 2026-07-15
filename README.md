@@ -1,9 +1,8 @@
 # Hi, I'm Oumayma 👋
 
-**Data Analyst | Data Engineering & BI | MSc Data Science & Business Intelligence**
+**Data Analyst | Data Engineering & BI**
 
-Every dataset carries a decision that hasn't been made yet — data cleaning and pipelines get me to it, dashboards get everyone else there too. My background spans credit risk analytics, ITSM/incident analytics, and cloud data engineering, with the same thread running through all three: make the data trustworthy, then make it clear.
-
+Data Analyst with hands-on experience across the full data lifecycle from cleaning and pipeline design to KPI definition and dashboard delivery for non-technical teams.
 📍 Paris, France · 🌐 [Portfolio](https://oumayma-guesmi.lovable.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/oumayma-guesmi/) · 📧 oumayma16guesmi@gmail.com
 
 ---
@@ -42,13 +41,13 @@ End-to-end cloud data pipeline exercise on the Azure stack.
 
 ## 💼 Experience Snapshot
 
-- **Alternante Data Analyst** — Fabien Matériaux (since Feb. 2026): Python automation for supplier pricing, ERP data integration, KPI tracking dashboards
+- **Data Analyst** — Fabien Matériaux (since Feb. 2026): Python automation for supplier pricing, ERP data integration, KPI tracking dashboards
 - **Business Data Analyst** — Everience, client AXA France: incident trend analysis, Power BI dashboards for support KPIs
 - **Data Engineering & BI Intern** — Wimbee: Azure Data Factory pipelines, Databricks transformations, Power BI reporting
 - **Risk Management Intern** — Amen Bank: LGD calculation and reporting by sector
 
 ## 🎓 Education
-MSc Data Science & Business Analytics — EDC Paris Business School (2025–2026)
+Master in Data Science & Business Analytics — EDC Paris Business School (2025–2026)
 Master in Business Analytics — Esprit School of Business (2021–2023)
 
 ## 📄 Certifications
