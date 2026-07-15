@@ -49,6 +49,7 @@ End-to-end cloud data pipeline exercise on the Azure stack.
 
 ## 🎓 Education
 Master in Data Science & Business Analytics — EDC Paris Business School (2025–2026)
+
 Master in Business Analytics — Esprit School of Business (2021–2023)
 
 ## 📄 Certifications
