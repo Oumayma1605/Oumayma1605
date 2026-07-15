@@ -3,6 +3,7 @@
 **Data Analyst | Data Engineering & BI**
 
 Data Analyst with hands-on experience across the full data lifecycle from cleaning and pipeline design to KPI definition and dashboard delivery for non-technical teams.
+
 📍 Paris, France · 🌐 [Portfolio](https://oumayma-guesmi.lovable.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/oumayma-guesmi/) · 📧 oumayma16guesmi@gmail.com
 
 ---
